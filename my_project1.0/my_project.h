@@ -1,5 +1,5 @@
 #pragma once
-
+// hahaha
 #include <QtWidgets/QMainWindow>
 #include "ui_my_project.h"
 
