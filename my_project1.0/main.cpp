@@ -6,7 +6,7 @@ using namespace std;
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    cout << "hhhhhhhhh";
+    cout << "hhhhhhhhhh";
     my_project w;
     w.show();
     return a.exec();
